@@ -10,5 +10,5 @@ class Appointment
   def add_appointment
     @appointments << appointment
   end
-  
+
 end
