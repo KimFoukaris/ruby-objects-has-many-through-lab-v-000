@@ -10,4 +10,12 @@ class Genre
     @songs << song
   end
 
+  def songs
+    @songs
+  end
+
+  def artists
+    
+  end
+
 end
