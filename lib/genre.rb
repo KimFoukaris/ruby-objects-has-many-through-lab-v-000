@@ -7,4 +7,3 @@ class Genre
   end
 
 end
-    
